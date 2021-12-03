@@ -5,6 +5,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "ForkTest"
+rootProject.name = "forktest"
 
-include("ForkTest-API", "ForkTest-Server", "ForkTest-MojangAPI")
+include("forktest-api", "forktest-server", "forktest-mojangapi")

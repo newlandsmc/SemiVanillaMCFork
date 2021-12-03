@@ -46,8 +46,8 @@ out/
 # other stuff
 run/
 
-ForkTest-Server
-ForkTest-API
-ForkTest-MojangAPI
+forktest-server
+forktest-api
+forktest-mojangapi
 
 !gradle/wrapper/gradle-wrapper.jar
