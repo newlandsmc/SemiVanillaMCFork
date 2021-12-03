@@ -13,7 +13,7 @@ index 854971e10dd15e248e98fcff7eaf1bfe01025583..c1637d57c1deaf166c5c843906e2ed55
  
  dependencies {
 -    implementation(project(":paper-api"))
-+    implementation(project(":ForkTest-API")) // ForkTest
++    implementation(project(":forktest-api")) // ForkTest
      api("com.mojang:brigadier:1.0.18")
  
      compileOnly("it.unimi.dsi:fastutil:8.2.2")
