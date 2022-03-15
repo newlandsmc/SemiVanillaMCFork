@@ -5,6 +5,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "forktest"
+rootProject.name = "SemiVanillaMC"
 
-include("forktest-api", "forktest-server")
+include("SemiVanilla-api", "SemiVanilla-server")
